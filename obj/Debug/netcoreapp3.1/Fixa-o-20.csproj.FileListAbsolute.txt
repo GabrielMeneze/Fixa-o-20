@@ -1,0 +1,13 @@
+C:\Users\gabriel\Documents\GitHub\Fixa-o-20\bin\Debug\netcoreapp3.1\Fixa-o-20.exe
+C:\Users\gabriel\Documents\GitHub\Fixa-o-20\bin\Debug\netcoreapp3.1\Fixa-o-20.deps.json
+C:\Users\gabriel\Documents\GitHub\Fixa-o-20\bin\Debug\netcoreapp3.1\Fixa-o-20.runtimeconfig.json
+C:\Users\gabriel\Documents\GitHub\Fixa-o-20\bin\Debug\netcoreapp3.1\Fixa-o-20.runtimeconfig.dev.json
+C:\Users\gabriel\Documents\GitHub\Fixa-o-20\bin\Debug\netcoreapp3.1\Fixa-o-20.dll
+C:\Users\gabriel\Documents\GitHub\Fixa-o-20\bin\Debug\netcoreapp3.1\Fixa-o-20.pdb
+C:\Users\gabriel\Documents\GitHub\Fixa-o-20\obj\Debug\netcoreapp3.1\Fixa-o-20.csprojAssemblyReference.cache
+C:\Users\gabriel\Documents\GitHub\Fixa-o-20\obj\Debug\netcoreapp3.1\Fixa-o-20.AssemblyInfoInputs.cache
+C:\Users\gabriel\Documents\GitHub\Fixa-o-20\obj\Debug\netcoreapp3.1\Fixa-o-20.AssemblyInfo.cs
+C:\Users\gabriel\Documents\GitHub\Fixa-o-20\obj\Debug\netcoreapp3.1\Fixa-o-20.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Documents\GitHub\Fixa-o-20\obj\Debug\netcoreapp3.1\Fixa-o-20.dll
+C:\Users\gabriel\Documents\GitHub\Fixa-o-20\obj\Debug\netcoreapp3.1\Fixa-o-20.pdb
+C:\Users\gabriel\Documents\GitHub\Fixa-o-20\obj\Debug\netcoreapp3.1\Fixa-o-20.genruntimeconfig.cache
